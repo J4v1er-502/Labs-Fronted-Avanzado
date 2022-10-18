@@ -32,24 +32,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    /*private fun apiRequest() {
-        RetrofitInstance.api.getCharacter().enqueue(object : Callback<AllAssetsResponse> {
-            override fun onResponse(
-                call: Call<AllAssetsResponse>,
-                response: Response<AllAssetsResponse>
-            ) {
-                if (response.isSuccessful){
-                    println(response.body())
-                }
-            }
-
-            override fun onFailure(call: Call<AllAssetsResponse>, t: Throwable) {
-                println("Error")
-            }
-
-        })
-
-    }*/
+   
 
     private fun setNavigation() {
 

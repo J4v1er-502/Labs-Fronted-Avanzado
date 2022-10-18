@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-hdpi_rick_and_morty.png.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-hdpi/rick_and_morty.png"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/layout_character_detail.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/layout/character_detail.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-ldpi_rick_and_morty.png.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-ldpi/rick_and_morty.png"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-xhdpi_rick_and_morty.png.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-xhdpi/rick_and_morty.png"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable_ic_error.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/menu_character_menu.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/menu/character_menu.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/layout_activity_main_sesion_sin_iniciar.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/layout/activity_main_sesion_sin_iniciar.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-anydpi-v24_rick_and_morty.xml.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-anydpi-v24/rick_and_morty.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/layout_item_recycler_object.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/layout/item_recycler_object.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable_ic_download.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-xxhdpi_rick_and_morty.png.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-xxhdpi/rick_and_morty.png"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable_ic_delete.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/navigation_nav_graph_sesion_sin_iniciar.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/navigation/nav_graph_sesion_sin_iniciar.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable_ic_sync.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/drawable/ic_sync.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/layout_fragment_place_list.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/layout/fragment_place_list.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/layout_login_fragment.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/layout/login_fragment.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-xxxhdpi_rick_and_morty.png.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-xxxhdpi/rick_and_morty.png"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/menu_top_app_bar.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/menu/top_app_bar.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-mdpi_rick_and_morty.png.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-mdpi/rick_and_morty.png"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.lab8_plataformas.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.lab8_plataformas.app-merged_res-52:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.lab8_plataformas.app-pngs-47:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]
